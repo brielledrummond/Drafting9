@@ -1,6 +1,6 @@
 Acronym | Long Form
 ---------|-----------------------------
-ANSI     | amerian national standards institute 
+ANSI     | [american national standards institute ](https://www.ansi.org/)
 CAD      | computer aided design  
 CNC      | Computer numerical control 
 :joy: :cyclone: :tropical_fish: 
