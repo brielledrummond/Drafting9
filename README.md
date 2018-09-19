@@ -1,5 +1,5 @@
-"Acronym" | "Long Form" 
+Acronym | Long Form
 ---------|-----------------------------
-ANSI     | All New Science Initiative 
-CAD      | Come and Dance 
-CNC      |  Call Never Call
+ANSI     | amerian national standards institute 
+CAD      | computer aided design  
+CNC      | Computer numerical control 
